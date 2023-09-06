@@ -1,5 +1,8 @@
 # AIRNOLOGY-23
 
+GDrive link :
+https://drive.google.com/drive/folders/1AkAdySFIa31_YOfFqPIRmXFZsg3TaBcB?usp=sharing
+
 ## Preprocessing Plan Sementara
 - `datetime` : buang (redundant)
 - `datetime_iso` : dipisah pisah? terutama cari bulannya. Cari tau dibulan apa curah hujan paling tinggi
