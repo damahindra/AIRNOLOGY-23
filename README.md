@@ -26,10 +26,12 @@ Tujuan dari kompetisi kali ini adalah untuk membuat hasil prediksi ramalan cuaca
 #### Navigasi *Repository*
 Terdapat beberapa folder dalam _repository_ ini, berikut adalah penjelasannya : 
 > **datasets**
+
   Berisikan beberapa dataset yang dibutuhkan untuk keperluan proyek, berikut adalah penjelasan mengenai dataset yang digunakan :
   1. _sample_submission.csv_ : format template untuk submisi peserta.
   2. _train.csv_ : berisi dataset untuk melatih model.
   3. _test.csv_ : berisi dataset untuk menguji model.
    
 > **notebook**
+
   Berisikan sebuah file .ipynb hasil analisis, pembentukan model, dan prediksi target.
