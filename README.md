@@ -13,3 +13,6 @@ Selain itu, ramalan cuaca yang akurat juga dapat membantu dalam perencanaan dan 
 
 ## Tujuan Kompetisi
 Tujuan dari kompetisi kali ini adalah untuk membuat hasil prediksi ramalan cuaca terbaik mengenai kondisi cuaca di ibu kota baru Indonesia pada kurun periode waktu tertentu. Tim peserta akan diberikan dataset yang telah disediakan berupa data historis riwayat cuaca di calon ibu kota baru Indonesia. Para peserta diminta untuk menggunakan dataset tersebut dalam membuat hasil prediksi yang sebaik mungkin. Peserta akan dinilai berdasarkan ketepatan prediksi mereka. 10 tim dengan hasil prediksi terbaik (diukur menggunakan metrics yang akan dijelaskan pada bagian selanjutnya) dapat melakukan kompetisi ke babak final.
+
+## Metrics Evaluation
+Pada kompetisi ini, performa model akan dievaluasi menggunakan metrik Root Mean Square Error (RMSE). RMSE mengukur tingkat kesalahan absolut antara nilai aktual dan nilai yang diprediksi oleh model, dan kemudian mengambil akar kuadrat dari rata-rata kesalahan kuadrat. Semakin rendah nilai RMSE, semakin baik performa model.
