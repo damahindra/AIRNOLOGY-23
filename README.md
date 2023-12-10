@@ -1,6 +1,6 @@
 # Airnology 2023 Objective Quest Tahap Penyisihan - Prediksi Curah Hujan
 
-![BCC horizontal (1) (2)](https://github.com/damahindra/AIRNOLOGY-23/assets/105963394/1b479191-057e-4b11-8950-54a4b65afca0)
+![BCC horizontal (1) (3)](https://github.com/damahindra/AIRNOLOGY-23/assets/105963394/eecfd6ab-a871-48c4-bf72-48ace8408007)
 
 # BCC Freya
 
