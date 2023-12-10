@@ -4,7 +4,7 @@
 
 # BCC Freya
 
-#### Anggota
+## Anggota
 1. Radifan Muhammad Aghnadiin - Teknik Komputer Universitas Brawijaya 2022 (NIM. 225150309111001)
 2. Sulthan Abiyyu Hakim - Teknik Informatika Universitas Brawijaya 2021 (NIM. 215150201111011)
 3. Rangga Andhito Damahindra - Teknologi Informasi Universitas Brawijaya 2023 (NIM. 215150707111001)
@@ -20,10 +20,10 @@ Dalam mengerjakan serangkaian proyek pembangunan tersebut kemungkinan besar kede
 
 Selain itu, ramalan cuaca yang akurat juga dapat membantu dalam perencanaan dan pengaturan jadwal proyek. Dengan mengetahui cuaca yang akan datang, pihak berwenang dapat menyusun rencana kerja yang efektif dan memprioritaskan tugas-tugas yang dapat diselesaikan tanpa terpengaruh oleh cuaca buruk. Dengan cara ini, proyek dapat berjalan dengan lancar dan efisien.
 
-#### Tujuan Kompetisi
+## Tujuan Kompetisi
 Tujuan dari kompetisi kali ini adalah untuk membuat hasil prediksi ramalan cuaca terbaik mengenai kondisi cuaca di ibu kota baru Indonesia pada kurun periode waktu tertentu. Tim peserta akan diberikan dataset yang telah disediakan berupa data historis riwayat cuaca di calon ibu kota baru Indonesia. Para peserta diminta untuk menggunakan dataset tersebut dalam membuat hasil prediksi yang sebaik mungkin. Peserta akan dinilai berdasarkan ketepatan prediksi mereka. 10 tim dengan hasil prediksi terbaik (diukur menggunakan metrics yang akan dijelaskan pada bagian selanjutnya) dapat melakukan kompetisi ke babak final.
 
-#### Navigasi *Repository*
+## Navigasi *Repository*
 Terdapat beberapa folder dalam _repository_ ini, berikut adalah penjelasannya : 
 > **datasets**
 
