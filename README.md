@@ -16,3 +16,29 @@ Tujuan dari kompetisi kali ini adalah untuk membuat hasil prediksi ramalan cuaca
 
 ## Metrics Evaluation
 Pada kompetisi ini, performa model akan dievaluasi menggunakan metrik Root Mean Square Error (RMSE). RMSE mengukur tingkat kesalahan absolut antara nilai aktual dan nilai yang diprediksi oleh model, dan kemudian mengambil akar kuadrat dari rata-rata kesalahan kuadrat. Semakin rendah nilai RMSE, semakin baik performa model.
+
+## Rumus RMSE
+
+![image](https://github.com/damahindra/AIRNOLOGY-23/assets/105963394/c1fb2bbb-e2d4-45c2-bdec-12ec0cb542bc)
+
+## Keterangan
+
+![image](https://github.com/damahindra/AIRNOLOGY-23/assets/105963394/3bb92e83-4e81-49e5-b58f-8eb2d6a5b235)
+
+## Scoring System
+Dalam kompetisi Objective Quest ini, penilaian akan terbagi menjadi dua bagian:
+
+- 70% Evaluation Metrics
+- 30% Notebook
+
+## Penilaian Berdasarkan Evaluation Metrics
+Dalam bagian ini, 70% penilaian kalian akan bergantung pada evaluasi metrics. Semakin tinggi peringkat kalian di leaderboard, semakin tinggi poin yang akan kalian peroleh.
+
+## Penilaian Berdasarkan Kualitas Notebook
+Bagian kedua penilaian adalah tentang kualitas notebook kalian. Penilaian ini akan dilakukan secara manual oleh tim panitia. Kami akan menilai beberapa aspek, termasuk:
+
+- Exploratory Data Analysis & Relevansi: Sejauh mana kalian mampu menganalisis karakteristik data yang diberikan secara relevan?
+
+- Struktur dan Detail: Bagaimana kalian menyajikan langkah-langkah dan analisis dalam notebook? Keteraturan dan detail akan sangat diapresiasi.
+
+Tingkat Kejelasan: Kalian dapat menggunakan comment (#) ataupun markdown untuk menjelaskan pendekatan kalian secara jelas.
