@@ -4,13 +4,16 @@
 
 # BCC Freya
 
-#### Members
+#### Anggota
 1. Radifan Muhammad Aghnadiin - Teknik Komputer Universitas Brawijaya 2022 (NIM. 225150309111001)
 2. Sulthan Abiyyu Hakim - Teknik Informatika Universitas Brawijaya 2021 (NIM. 215150201111011)
 3. Rangga Andhito Damahindra - Teknologi Informasi Universitas Brawijaya 2023 (NIM. 215150707111001)
 
-#### Problem Domain
+#### Domain Permasalahan
 Prediksi curah hujan memiliki relevansi yang sangat penting dalam berbagai aspek kehidupan, termasuk pertanian, mitigasi bencana, pengelolaan sumber daya air, dan perencanaan infrastruktur. Dengan memiliki informasi yang akurat tentang kapan, seberapa banyak, dan di mana hujan akan terjadi, kita dapat mengoptimalkan penggunaan sumber daya pertanian, menghindari kerugian akibat banjir, mengatur pasokan air yang efisien, dan merencanakan pembangunan kota yang tahan cuaca. Dalam konteks pemindahan ibu kota baru Indonesia, prediksi curah hujan yang baik akan membantu dalam perencanaan dan pengaturan jadwal proyek, mengurangi risiko penundaan, dan memastikan kelancaran proyek infrastruktur yang sangat penting tersebut.
+
+#### Tujuan
+Tujuan utama dari proyek ini adalah mengidentifikasi dan mengevaluasi fitur-fitur penting yang berkaitan dengan curah hujan di ibu kota baru Indonesia. Dengan melakukan analisis fitur, kita dapat memahami faktor-faktor apa yang paling berpengaruh terhadap curah hujan di lokasi tersebut.
 
 #### Diagram Alir Metodologi
 ![planning AIRNOLOGY drawio (3)](https://github.com/damahindra/AIRNOLOGY-23/assets/105963394/3407cbaf-9e2e-4aae-b66f-301907037e5b)
