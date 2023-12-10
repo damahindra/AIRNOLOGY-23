@@ -9,7 +9,7 @@
 2. Sulthan Abiyyu Hakim - Teknik Informatika Universitas Brawijaya 2021 (NIM. 215150201111011)
 3. Rangga Andhito Damahindra - Teknologi Informasi Universitas Brawijaya 2023 (NIM. 215150707111001)
 
-#### Latar Belakang
+## Latar Belakang
 Pada tahun 2019, Presiden Indonesia, Joko Widodo, mengumumkan rencana untuk memindahkan ibu kota Indonesia dari Jakarta ke provinsi Kalimantan Timur. Rencana ini bertujuan untuk mengatasi masalah serius yang terjadi di Jakarta, seperti kemacetan lalu lintas, banjir, dan penurunan tanah, yang semakin parah dari waktu ke waktu. Selain itu, pemindahan ibu kota juga diharapkan dapat mendorong pembangunan ekonomi di wilayah Indonesia bagian timur dan memperkuat ketahanan nasional.
 
 Rencana pemindahan ibu kota ini tidaklah mudah dilakukan, karena melibatkan banyak faktor dan tantangan. Ada banyak hal yang perlu dipertimbangkan, seperti infrastruktur, transportasi, perumahan, ketersediaan air bersih, listrik, dan lain-lain.
