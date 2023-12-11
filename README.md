@@ -5,9 +5,9 @@
 # BCC Freya
 
 ## Anggota
-1. Radifan Muhammad Aghnadiin - Teknik Komputer Universitas Brawijaya 2022 (NIM. 225150309111001)
-2. Sulthan Abiyyu Hakim - Teknik Informatika Universitas Brawijaya 2021 (NIM. 215150201111011)
-3. Rangga Andhito Damahindra - Teknologi Informasi Universitas Brawijaya 2023 (NIM. 215150707111001)
+1. _Radifan Muhammad Aghnadiin_ - Teknik Komputer Universitas Brawijaya 2022 (NIM. 225150309111001)
+2. _Sulthan Abiyyu Hakim_ - Teknik Informatika Universitas Brawijaya 2021 (NIM. 215150201111011)
+3. _Rangga Andhito Damahindra_ - Teknologi Informasi Universitas Brawijaya 2023 (NIM. 215150707111001)
 
 ## Latar Belakang
 Pada tahun 2019, Presiden Indonesia, Joko Widodo, mengumumkan rencana untuk memindahkan ibu kota Indonesia dari Jakarta ke provinsi Kalimantan Timur. Rencana ini bertujuan untuk mengatasi masalah serius yang terjadi di Jakarta, seperti kemacetan lalu lintas, banjir, dan penurunan tanah, yang semakin parah dari waktu ke waktu. Selain itu, pemindahan ibu kota juga diharapkan dapat mendorong pembangunan ekonomi di wilayah Indonesia bagian timur dan memperkuat ketahanan nasional.
