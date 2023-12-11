@@ -35,3 +35,7 @@ Terdapat beberapa folder dalam _repository_ ini, berikut adalah penjelasannya :
 > **notebook**
 
   Berisikan sebuah file .ipynb hasil analisis, pembentukan model, dan prediksi target.
+
+> **model**
+
+  Berisikan file .pkl yang merupakan model untuk prediksi target.
